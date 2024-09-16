@@ -1,4 +1,4 @@
-#hello
+#hello github push!
 import turtle
 import random
 #import pyside6 #It works as well but it uses Pyside6 and it is different from turtle(usage)...
